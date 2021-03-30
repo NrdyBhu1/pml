@@ -1,4 +1,4 @@
-![alt text](https://github.com/redentgit/pml_gfx/blob/main/github_readme_assets/Untitled-1.png?raw=true)
+![0](https://user-images.githubusercontent.com/55647897/112922958-3b6d3500-90c2-11eb-8de4-de208a98dbb1.png)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Fossbay/pml/blob/main/LICENSE)
  
 # Information
