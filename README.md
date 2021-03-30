@@ -20,7 +20,7 @@ Submit an issue on the issues tab of this repository, or join our discord for be
 Being worked on ;)
 
 # Contributing
-PML is an open-soruce project, therefore in order to grow and improve, we need your help. Find a bug? Report it by opening an issue or patch in the fix yourself and submit a pull request. Want a new feature? Request it by opening an issue or patch in the feature yourself and submit a pull request.
+PML is an open-source project, therefore in order to grow and improve, we need your help. Find a bug? Report it by opening an issue or patch in the fix yourself and submit a pull request. Want a new feature? Request it by opening an issue or patch in the feature yourself and submit a pull request.
 
 # Author
 The Fossbay Organization
