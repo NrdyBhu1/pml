@@ -14,7 +14,7 @@ Being worked on ;)
 
 Submit an issue on the issues tab of this repository, or join our discord for better support.
 
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/kM4z2ZJPYa)  
+[![Discord Chat](https://img.shields.io/discord/783116373605875763.svg)](https://discord.gg/kM4z2ZJPYa)  
 
  
 # ⚙️  **Building**
