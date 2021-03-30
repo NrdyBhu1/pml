@@ -26,7 +26,7 @@ Submit an issue on the issues tab of this repository, or join our discord for be
 
 # 💻 **Contribute!**
 
-PML is open-soruce project. To grow and improve it needs your help. File a bug report and/or submit a patch.
+PML is an open-soruce project, therefore in order to grow and improve, we need your help. Find a bug? Report it by opening an issue or patch in the fix yourself and submit a pull request. Want a new feature? Request it by opening an issue or patch in the feature yourself and submit a pull request.
 
 # Author
 
