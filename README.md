@@ -1,6 +1,10 @@
-![0](https://user-images.githubusercontent.com/55647897/112922958-3b6d3500-90c2-11eb-8de4-de208a98dbb1.png)
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Fossbay/pml/blob/main/LICENSE)
- 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/55647897/112922958-3b6d3500-90c2-11eb-8de4-de208a98dbb1.png">
+ <a href="https://github.com/Fossbay/pml/blob/main/LICENSE">
+  <img src="https://img.shields.io/apm/l/atomic-design-ui.svg?">
+ </a>
+</p>
+
 # Information
 PML is a simple, lightweight, easy to use multimedia library written in C. PML also works natively with C++, and bindings can be used/made to the native C code for other languages.
 
